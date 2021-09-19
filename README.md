@@ -2,6 +2,10 @@
 
 You have to update offsets manually
 
+CURRENT FEATURES
+
+* Auto Bunny Hop
+
 TODO
 
 * MAKE A CODE SIMPLER
