@@ -20,6 +20,7 @@
 #include "config.h"
 #include "Hack.h"
 #include "Misc.h"
+#include "SDK.h"
 #include "Offsets.h"
 
 using namespace hazedumper::signatures;
